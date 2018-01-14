@@ -66,18 +66,18 @@ Their attitude. How people act or what they say in different situations tells mo
 8. organized
 
 ## WB. Unit 1.1, ex. 2a
-1. ad<u>ven</u>turous
-2. easy-<u>go</u>ing
-3. am<u>bit</u>ious
-4. even-<u>tem</u>pered
-5. <u>cau</u>tious
-6. open-<u>min</u>ded
-7. ener<u>get</u>ic
-8. <u>or</u>ganized
-9. re<u>lia</u>ble
-10. self-<u>con</u>fident
-11. <u>gen</u>erous
-12. cre<u>at</u>ive
+1. ad**ven**turous
+2. easy-**go**ing
+3. am**bit**ious
+4. even-**tem**pered
+5. **cau**tious
+6. open-**min**ded
+7. ener**get**ic
+8. **or**ganized
+9. re**lia**ble
+10. self-**con**fident
+11. **gen**erous
+12. cre**at**ive
 
 ## WB. Unit 1.1, ex. 3
 1. insensitive
