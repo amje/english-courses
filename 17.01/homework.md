@@ -4,6 +4,43 @@
 3. WB: p. 6 ex 6, 7, 8
 
 # Answers
+## Product presentation
+### Plan
+1. the challenge of true mobility
+    * many mobile devices
+    * wireless power is the last thing of true mobility
+2. technology overview
+    * useful power over long distance
+    * infrared beams of light
+    * transmitter: delivers power in its area, emits focused, safe infrared beams that carry power to receiver
+    * receiver: captures light from transmitter, convert it to electrical power using photovoltaic cell, just like solar panels
+3. transmitter
+    * very smart device, automatic identification
+    * multiple clients, power-management algorithm
+4. receiver
+    * small size
+    * contains photovoltaic cell, miniature optic and electronic hardware
+    * may also be supplied with micro-USB or Lightning output connectors
+5. power delivery
+    * automatic client identification
+6. line of sight
+    * power flows in a straight, narrow line
+    * steady power delivery, energy storage buffer
+7. communication
+    * transmitter and receiver share communication channel
+    * data payload is application dependent and customizable
+    * channel can enable identification of device properties, efficient power flow
+8. product features
+    * automatic - the transmitter finds the devices and powers them without intervention
+    * safe - complies with international standards and regulations
+    * power delivery over distance
+    * wide field of view - single transmitter can cover a room of 250 square feet
+    * high power
+    * power is constant over distance - no power dissipation and 100% link efficiency
+    * multiple devices can be charged simultaneously
+    * scalable - additional transmitters can be placed to increase coverage, power and number of receivers
+    * smart power delivery according receiving-device parameters
+
 ## CB. Unit 1.2, ex. 9a
 Hideo Nakata is the Japanese film-maker who directed Ring and Ring 2 horror films.
 
