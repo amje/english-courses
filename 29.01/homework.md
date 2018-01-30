@@ -64,3 +64,13 @@
 11. g)
 12. f)
 
+## Presentation
+The country I would like to take a trip is USA. I want to visit all states of the country and see main attractions of them. For example, in California I would like to see the Golden Gate bridge and the Hollywood sign, in New York I want to climb on top of The Empire State Building and come to the Liberty Island to see well-known statue, and so on.
+
+There are many places in the country that shows nature's power and beauty, such as Grand Canyon, the unique combination of geological color and erosional forms that spreads in 277 miles long, 18 miles wide and a mile deep. It overwhelms our senses through its huge size. Another good place to visit is Yellowstone National Park. Its colorful hot springs and geysers are truly exciting. Sequoia National Park is wonderful place to visit too. It is a land of giants. Dramatic landscape, vast caverns and world's largest trees will amaze you.
+
+If you are a gambling person, Las Vegas is a place for you. There are plenty different casinos where you can play for your pleasure poker, blackjack, roulette and other gambling games.
+
+Also you shouldn't miss the chance to visit the largest roller coasters park in the world, Six Flags. It has over a hundred various roller coasters, which will raise in you incredible feelings and emotions.
+
+Long story short, USA is a country where everyone can find something interesting for themselves, and it worth to be visited.
