@@ -62,4 +62,4 @@
 * insurance [in-**shoo r**-*uh* ns, -**shur**-]  - страховка
 * accommodation [*uh*-kom-*uh*-**dey**-sh*uh* n] - жилье
 * inoculation [ih-nok-y*uh*-**ley**-sh*uh* n] - прививка
-* custom [**kuhs**-t*uh* m] - сущ. обычай, таможня
+* custom [**kuhs**-t*uh* m] - сущ. обычай, (customs) таможня
