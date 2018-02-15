@@ -74,15 +74,15 @@
 ## Страны Южной Америки
 |           | Страна | Прилагательное | Гражданин | Нация
 | :---      | :---   | :---           | :---      | :--- 
-| Аргентина | Argentina /ˌɑr dʒənˈti nə/ | Argentinian | an Argentinian | the Argentinians
+| Аргентина | Argentina /ˌɑr dʒənˈti nə/ | Argentinian | an Argentinian | the Argentins
 | Боливия | Bolivia /bəˈlɪv i ə, boʊ-/ | Bolivian | a Bolivian | the Bolivians
 | Бразилия | Brazil /brəˈzɪl/ | Brazilian | a Brazilian | the Brazilians
 | Венесуэла | Venezuela /ˌvɛn əˈzweɪ lə, -ˈzwi-/ | Venezuelan | a Venezuelan | the Venezuelans
-| Гайана | Guyana /gaɪˈæn ə, -ˈɑ nə/ | Guyanese | a Guyanese | the Guyaneses
+| Гайана | Guyana /gaɪˈæn ə, -ˈɑ nə/ | Guyanese | a Guyanese | the Guyanese
 | Колумбия | Colombia /kəˈlʌm bi ə/ | Colombian | a Colombian | the Colombians
 | Парагвай | Paraguay /ˈpær əˌgwaɪ, -ˌgweɪ/ | Paraguayan | a Paraguayan | the Paraguayans
 | Перу | Peru /pəˈru/ | Peruvian | a Peruvian | the Peruvians
-| Суринам | Suriname /ˈsʊər əˌnɑm, -ˌnæm/ | Surinamese | a Surinamer/Surinamese | the Surinamers/Surinameses
+| Суринам | Suriname /ˈsʊər əˌnɑm, -ˌnæm/ | Surinamese | a Surinamer/Surinamese | the Surinamers/Surinamese
 | Уругвай | Uruguay /ˈyʊər əˌgweɪ, -ˌgwaɪ/ | Uruguayan | an Uruguayan | the Uruguayans
 | Чили | Chile /ˈtʃɪl i/ | Chilean | a Chilean | the Chileans
 | Эквадор | Ecuador [/ˈɛk wəˌdɔr/ | Ecuadorean | an Ecuadorean | the Ecuadoreans
