@@ -75,3 +75,26 @@
 4. take off
 5. stop over
 6. pull over
+
+## Report
+### Americans
+Americans are encouraged at an early age to be independent and to develop their own goals in life. They are encouraged to not depend on others including their friends, teachers and parents.
+
+Americans like their privacy and enjoy spending time alone. Foreign visitors will find American homes and offices open, but what is inside the American mind is considered to be private.
+
+Americans uphold the idea that everyone "is created equal" and has the same rights. This includes women as well as men of all ethnic and cultural groups living in the U.S. There are even laws that protect this "right to equality" in its various forms.
+
+Americans take pride in making the best use of their time. In the business world, "time is money". Being "on time" for class, an appointment, or for dinner with your host family is important. Americans apologize if they are late.
+
+Americans are quite informal in different things. They use people's first name. Even in business culture you commonly would just say someone’s first name, even if they are your superior. Another example is dress code. Many companies don't enforce strict dress code. Also their greetings are usually short, informal and friendly. They may greet each other with "hi", "how are you?", "what's up". American's friendships are casual, as they seem to easily develop and end friendships.
+
+### British
+Brits tend to be rather conservative, they love familiar things. They are bored, when they hear any suggestion that brings some modification of their habits, or the introduction of something new and unknown into their life.
+
+British society is based on the idea that everybody follows the same rules, whatever their wealth or status. No one is above the law - not even the government.
+
+The British are practical and realistic. They are not misled by romantic illusions.
+
+The British sense and feeling for privacy is generally known. British people rarely shake hands except when being introduced to someone for the first time.
+
+The British are sports mad, although most people limit their interest to watching or gambling rather than taking part. Most people prefer to try their luck at gambling (rather than work) and will bet on almost anything, including the national lottery, football pools, horse racing, bingo, casinos, names of royal babies or ships, election results and so on. The British are famous for their sense of fair play and playing by the rules – cheating is considered very bad form.
