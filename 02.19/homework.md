@@ -50,7 +50,7 @@ sense of space, the silence, and the crisp clearness of the sand
 | Ботсвана | Botswana /bɒtˈswɑ nə/ | Botswanan | a Tswana | the Tswana
 | Буркина-Фасо | - | - | - | -
 | Бурунди | Burundi /bʊˈrʊn di/ | Burundian | a Burundian | the Burundians
-| Габон | Gabon /gaˈbɔ̃/ | Gabonese | a Gabonese | the Gaboneses
+| Габон | Gabon /gaˈbɔ̃/ | Gabonese | a Gabonese | the Gabonese
 | Гамбия | Gambia /ˈgæm bi ə/ | Gambian | a Gambian | the Gambians
 | Гана | Ghana /ˈgɑ nə, ˈgæn ə/ | Ghanaian | a Ghanaian | the Ghanaians
 | Гвинея | Guinea /ˈgɪn i/ | Guinean | a Guinean | the Guineans
@@ -63,6 +63,6 @@ sense of space, the silence, and the crisp clearness of the sand
 | Камерун | Cameroon /ˌkæm əˈrun/ | Cameroonian | a Cameroonian | the Cameroonians
 | Кения | Kenya /ˈkɛn yə, ˈkin-/ | Kenyan | a Kenyan | the Kenyans
 | Демократическая республика Конго | Democratic Republic of the Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
-| Республика Конго | Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congoleses
+| Республика Конго | Congo /ˈkɒŋ goʊ/ | - | a Congolese | the Congolese
 | Кот-д'Ивуар | - | - | - | -
 | Лесото | - | - | - | -
