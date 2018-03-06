@@ -51,7 +51,7 @@ https://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_pe
 A pusher is a worker who pushes people onto the train at a railway station during the morning and evening rush hours. This profession originally comes from New York City, in 1918 New York Times mentions subway guards and police trying to direct and push crowds onto trains. By the 1920s, pushers in the New York City Subway were known worldwide. Another origin place of this profession is Japan. Initially pushers were called "passenger arrangement staff", and mostly made up of students working part-time. Currently, station staff and part-time workers fill these roles during morning rush hours. Today you can also meet "pushers" in at lease three Chinese cities, Beijing, Shanghai and Chongqing, and in the Madrid Metro.
 
 ### Bike Fisher
-This profession comes from Amsterdam. In Amsterdam there are a lot of canals, also there are a lot of people using bikes. So, there can be situations when bike appears in canal by an accident, and special staff comes to resque.
+This profession comes from Amsterdam. Well-known fact that in Amsterdam there are a lot of canals, also there are a lot of people using bikes. So, there can be situations when bike appears in canal by an accident, and special staff comes to resque.
 
 ### Color Expert
 According to Colorcom, a "color expert" organization, a color consultant combines color psychology, current trends and style, demographic statistics, and color design theories in order to best incorporate color into a project. The International Association of Color Consultants (IACC) offers both training and membership for color consultants.
