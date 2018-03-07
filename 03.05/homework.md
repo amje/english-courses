@@ -22,3 +22,9 @@
 6. fluency in
 7. report to
 8. prospects for
+
+## CB. Unit 3.1, ex. 7 (Job advertisement)
+Title: News Reporter
+Salary: Competitive Salary + Travel Bonus
+Content: CNN is a big broadcast company with agencies all over the world. We are looking for an ambitious and self-confident person. Candidate will be responsible for making news reports and interviews from the inside.
+Knowledge of AV equipment is desirable, but not essential. This is very exciting and interesting job for an adventurous person.
