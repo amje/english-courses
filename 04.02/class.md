@@ -6,15 +6,15 @@ accurate - точный
 адвокат - layer, barrister, solicitor, attorney  
 aspirant - претендент  
 post-graduate - аспирант  
-bullion - сливки  
-clear-soup - бульон  
+bullion - слиток  
+clear soup - бульон  
 clay - глина  
 glue - клей  
 comic - комичный  
 comedian - комик  
 complexion - цвет лица  
 corpse - труп  
-corps - корпус  
+corps - корпус (армия)  
 scenery - декорации  
 Dutch - голандский  
 Danish - датский  
@@ -31,7 +31,7 @@ mayor - мэр
 physicist - физик  
 physician - физиотерапевт  
 principal - главный  
-a man of principal - принципиальный  
+a man of principle - принципиальный  
 prospects - перспективы  
 rapport - взаимопонимание  
 report - рапорт  
@@ -40,6 +40,6 @@ recipe - рецепт кул.
 prescription - рецепт мед.  
 satin - атлас  
 sateen - сатин  
-therapist - психотерапевт  
+therapist - терапевт  
 troops - войска  
 
