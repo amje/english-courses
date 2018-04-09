@@ -89,3 +89,31 @@
 7. The bed
 8. at sea
 9. work
+
+## Plan
+1. Variety of Elvish languages.
+    * Elder Speech in The Witcher saga
+    * Elvish languages of the Warcraft universe
+    * The language of the Dalish elves in the Dragon Age series of videogames
+    * ... and from films
+    * The elves in the film Hellboy II: The Golden Army speak a language based on Scottish Gaelic [ˈkaːlikʲ]
+    * Shiväisith - language of the Dark Elves in Thor: The Dark World constructed by David J. Peterson
+2. Many Elvish languages by J. R. R. Tolkien. Family of several related languages and dialects.
+    * Primitive Quendian, or Quenderin
+        * Avarin
+        * Common Eldarin
+            * Quenya
+            * Common Telerin
+                * Telerin
+                * Nandorin
+                * Sindarin
+3. Sindarin is most widely spoken elvish language in Lord of The Rings plot. This language will be used for examples.
+4. Pronunciation
+    * Six vowers (a, e, i, o, u, y); Three forms show sound's length of a vowel. (a - blank, shortest; á - accute accent, longer; â - circumflex accent, longest)
+    * Consonants are the same as in English, with some differences:
+        * The letter c always denotes [k] (i. e. Celeborn is pronounced Keleborn).
+        * The letter g always denotes the hard [ɡ], as in give, rather than the soft form, as in gem.
+        * The digraph dh, as in Caradhras, denotes [ð] as in English this.
+        * The digraph ch, as in Orch, denotes [x] as in German ach, and never like the ch [*t͡ʃ] in English chair.
+5. Words examples
+    * https://en.wikipedia.org/wiki/Sindarin#Vocabulary
