@@ -100,7 +100,7 @@ Cinema invitation
 * AKA - Also Known As
 * LOL - Laughing Out Loud
 * ROFL - Rolling On Floor Laughing
-* ROFL - Rolling On Floor Laughing
+* LMAO - Laughing My Ass Off
 * FYI - For Your Information
 * TIL - Today I Learned
 * IMO - In My Opinion
