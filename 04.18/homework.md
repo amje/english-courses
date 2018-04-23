@@ -94,6 +94,14 @@ Cinema invitation
 2. b
 
 ## Acronyms
-1. bro - brother
-2. gr8 - great
-
+* bro - brother
+* gr8 - great
+* ASAP - As Soon As Possible
+* AKA - Also Known As
+* LOL - Laughing Out Loud
+* ROFL - Rolling On Floor Laughing
+* ROFL - Rolling On Floor Laughing
+* FYI - For Your Information
+* TIL - Today I Learned
+* IMO - In My Opinion
+* SWOT - Strengths, Weaknesses, Opportunities, Threats
