@@ -49,3 +49,27 @@
 5. a)
 6. f)
 7. e)
+
+## French borrowings
+After the Norman Conquest of 1066, Anglo-Norman (old French) became the language of the elite in the UK.
+
+For 300 years, Norman was the language the British elite used to distinguish itself from the population.
+
+Back then, French was a clear way to say “I’m not like most people”.
+
+That’s why you can find a huge amount of French words when you talk about luxury, food or boring things like the law.
+
+### Heraldry
+dragon, phoenix, lion, leopard, gazelle, giraffe, elephant, dolphin
+
+### Military
+soldier, guard, officer, army, squad, corps, troop  
+
+**Ranks**  
+corporal, sergeant, lieutenant, captain, colonel, general, admiral
+
+### Arts
+art, music, dance, theatre, author, canvas, melody, rhythm, director, gallery, portrait, brush
+
+### Cuisine
+beef, caramel, cream, marmalade, mayonnaise, pork, salad, sauce, sausage
