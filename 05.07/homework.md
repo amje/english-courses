@@ -73,3 +73,17 @@ art, music, dance, theatre, author, canvas, melody, rhythm, director, gallery, p
 
 ### Cuisine
 beef, caramel, cream, marmalade, mayonnaise, pork, salad, sauce, sausage
+
+## News 1
+1. Bloc.Party company has developed a new way to play board games using blockchain technology: the PlayTable, hybrid of video games console and table-sized tablet.
+2. It's designed to enhance the experience of playing table games.
+3. The PlayTable is able to read information from physical game pieces or cards, and then store that information securely online, so every move you make is saved and recorded.
+4. PlayTable can read anything with radio-frequency identification sticker, so it's possible to 3D print a piece, slap a sticker on it and use it in a game. And because information is stored in the blockchain, you can use it anywhere - at a competitive event or a friend's house.
+5. It also removes the need to keep track of rules for complex board games. Smartphones can be linked to the PlayTable to display, for instance, private poker hands.
+6. Selling starts in the end of the year. And price will be $599.
+
+## News 2
+1. Twitter has urged its 336 million users to change their password after the company discovered a bug that stored password in a plain text in an internal system.
+2. Normally passwords are masked through a process called hashing, which replaces the actual password with a random set of numbers and letters, that are stored in the company's system. It is a industry standard.
+3. Due to the bug, passwords were written to an internal log before completing the hashing process.
+4. Twitter's chief technology officer advices users to change their passwords, enable two-factor authorization and use a password manager to create strong, unique passwords on every service they use.
