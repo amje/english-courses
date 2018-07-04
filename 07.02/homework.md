@@ -16,7 +16,9 @@ Include some information about the criticism of the organizations given above.
 * concerned with international public health
 * was established in 1948
 * has headquarter in Geneva, Switzerland
-* leading role in the eradication of smallpox
+* member of the United Nations Development Group
+* constitution had been signed by 63 countries on April, 7 in 1948,
+* since establishment it has played a leading role in the eradication of smallpox
 * current priorities include:  
     communicable diseases such as Ebola and malaria,  
     occupational health,  
@@ -26,6 +28,7 @@ Include some information about the criticism of the organizations given above.
 * World Health Assembly and Regional offices
 * head of organization is the director-general, elected by the World Health Assembly, term last 5 years
 * over 8500 employees in 147 countries, tobacco-free work environment, doesn't recruit smoking people
+
 
 ## Abbreviations
 * **ECOSOC** - United Nations Economic and Social Council (Экономический и Социальный Совет ООН)
