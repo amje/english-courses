@@ -26,3 +26,24 @@ Include some information about the criticism of the organizations given above.
 * World Health Assembly and Regional offices
 * head of organization is the director-general, elected by the World Health Assembly, term last 5 years
 * over 8500 employees in 147 countries, tobacco-free work environment, doesn't recruit smoking people
+
+## Abbreviations
+* **ECOSOC** - United Nations Economic and Social Council (Экономический и Социальный Совет ООН)
+* **UNESCO** - United Nations Educational, Scientific and Cultural Organization (ЮНЕСКО - специализированное учреждение Организации Объединённых Наций по вопросам образования, науки и культуры)
+* **UNICEF** - United Nations Children's Fund (ЮНИСЕФ - Международный чрезвычайный детский фонд ООН)
+* **WTO** - World Trade Organization (Всемирная торговая организация)
+* **IAEA** - International Atomic Energy Agency (Международное агентство по атомной энергии)
+* **IBRD** - International Bank for Reconstruction and Development (Международный банк реконструкции и развития)
+* **IMF** - International Monetary Fund (Международный валютный фонд)
+* **UNCTAD** - United Nations Conference on Trade and Development (ЮНКТАД - Конференция ООН по торговле и развитию)
+* **UNFP** - National Union of Professional Footballers
+* **UNHCR** - United Nations High Commissioner for Refugees (УВКБ ООН - Управление Верховного комиссара ООН по делам беженцев)
+* **NGO** - Non-governmental organization (Общественная организация)
+* **UNDP** - United Nations Development Programme (Программа развития ООН)
+* **UPU** - Universal Postal Union (Всемирный почтовый союз)
+* **ILO** - International Labour Organization (Международная организация труда)
+* **WHO** - World Health Organization (Всемирная организация здравоохранения)
+* **FAO** - Food and Agriculture Organization of the United Nations (Продовольственная и сельскохозяйственная организация ООН)
+* **ICAO** - International Civil Aviation Organization (Международная организация гражданской авиации)
+* **IFC** - International Financial Community (Международная финансовая корпорация)
+* **IDA** - International Development Association (Международная ассоциация развития)
